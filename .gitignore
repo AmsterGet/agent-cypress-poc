@@ -1,0 +1,33 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules/
+
+# Editor
+.idea/
+
+# Optional npm directory
+.npm
+.npmrc
+
+# Optional eslint cache
+.eslintcache
+
+# VS code
+.vscode/
+
+# Mac files
+.DS_Store
+
+# Cypress
+cypress/
+cypress.json
+
+# Example attachments
+example/screenshots/
+
+# Jest coverage
+coverage/
